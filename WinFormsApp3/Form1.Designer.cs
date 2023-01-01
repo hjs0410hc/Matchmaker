@@ -48,11 +48,12 @@
             // 
             // listBox1
             // 
+            this.listBox1.Font = new System.Drawing.Font("맑은 고딕", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 15;
+            this.listBox1.ItemHeight = 21;
             this.listBox1.Location = new System.Drawing.Point(17, 152);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(218, 274);
+            this.listBox1.Size = new System.Drawing.Size(218, 256);
             this.listBox1.TabIndex = 0;
             this.listBox1.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.listBox1_MouseDoubleClick);
             // 
@@ -74,11 +75,12 @@
             // 
             // listBox2
             // 
+            this.listBox2.Font = new System.Drawing.Font("맑은 고딕", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.listBox2.FormattingEnabled = true;
-            this.listBox2.ItemHeight = 15;
+            this.listBox2.ItemHeight = 21;
             this.listBox2.Location = new System.Drawing.Point(257, 152);
             this.listBox2.Name = "listBox2";
-            this.listBox2.Size = new System.Drawing.Size(210, 274);
+            this.listBox2.Size = new System.Drawing.Size(210, 256);
             this.listBox2.TabIndex = 3;
             this.listBox2.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.listBox2_MouseDoubleClick);
             // 
