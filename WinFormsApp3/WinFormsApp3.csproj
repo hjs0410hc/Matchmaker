@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <PackageId>hamhyun.matchmaker</PackageId>
+    <Title>Hamhyun Mungwa Matchmaker</Title>
+    <Version>0.0.1</Version>
+    <Authors>infboy</Authors>
+    <Company>Hamhyun</Company>
+    <Product>Hamhyun Mungwa Matchmaker</Product>
+    <Description>함현 문과의 팀 구성 프로그램</Description>
+    <Copyright>Copyright 2023ⓒ infboy</Copyright>
+    <AssemblyName>HamhyunMM</AssemblyName>
+    <RootNamespace>HamhyunMM</RootNamespace>
+  </PropertyGroup>
+
+</Project>

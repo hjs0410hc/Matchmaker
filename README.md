@@ -1,2 +1,10 @@
 # Matchmaker
-This program split members for matchmaking (randomly)
+롤 내전하다가 사다리타기 귀찮아서 만든 프로그램
+
+- 프리셋으로 팀 구성 저장 가능
+- 인원 목록 저장 가능
+- 팀 균형을 맞춰서 팀 짜주는 기능
+
+### 요구 사양
+- Windows 7 이상
+- .NET Framework 6.0
